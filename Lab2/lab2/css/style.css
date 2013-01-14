@@ -1,0 +1,33 @@
+/*
+CSS for My Page :: 67-101 lab 2
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #F7F7F7;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	color: #787878;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	font-size: 1em;
+	color: #000000;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+a {
+	text-decoration: none;
+	color: #000053;
+}
+
+a:hover {
+	color: #999999;
+}
